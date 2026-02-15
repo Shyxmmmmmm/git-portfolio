@@ -15,6 +15,6 @@ Technologies Used:
 HTML5
 CSS3
 Google Fonts
-Project Link: (https://shyxmmmmmm.github.io/Portfolio-Simple-website/)
+Project Link: (https://shyxmmmmmm.github.io/git-portfolio/)
 
 Author: Shyam Kumar A S Aspiring Web Developer
