@@ -1,0 +1,212 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+  font-family: "Young Serif", serif;
+  font-weight:50;
+  font-style: normal;
+}
+
+
+.one{
+    padding: 50px;
+}
+
+
+.two{
+    background-image: url("https://picsum.photos/1200/400");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 40px;
+}
+
+
+.three{
+    background-color: orange;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.four{
+    font-size: 50px;
+}
+.five{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px ;
+}
+
+.six,.seven,.eight,.nine{
+    padding-top:20px ;
+}
+
+.six__desc,.seven__desc,.eight__desc,.nine__desc{
+    padding-top:10px ;
+}
+
+
+.six{
+    margin-bottom: 20px;
+}
+
+
+.seven,.eight{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.seven{
+    background-color:#1A73E8;
+    color: black;
+    padding: 10px;
+    list-style: none;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 144px;
+}
+.seven__desc{
+    list-style: none;
+}
+
+
+.eight{
+    background-color: rgb(255, 98, 0);
+    color: black;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right:15px;
+    margin-bottom: 10px;
+    
+}
+
+.eight__desc{
+    list-style:none;
+    font-size:10px ;
+}
+
+
+.nine{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    height: 50px;
+}
+
+
+.ten{
+    color: skyblue;
+}
+
+
+
+
+
+.one_{
+    padding: 50px;
+}
+
+.two_,.four_{
+    background-color: black;
+    color: white;
+}
+
+.two_name{
+    font-size: 40px;
+    padding-bottom: 5px;
+}
+
+.two_des{
+    font-size:20px;
+    padding-bottom: 15px;
+}
+
+.two_button{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.two_{
+    padding: 15px;
+}
+
+
+.three_{
+    padding-top: 25px;
+}
+
+.three_fm td,
+.three_frm td ,
+.three_form td{
+    padding-bottom: 15px;
+}
+
+.border_,
+.border__{
+    border: none;
+    border-bottom: 1px solid black;
+    height: 30px;
+}
+
+
+
+
+.four_{
+    padding: 10px;
+    font-size: 10px;
+    margin-top: 15px;
+}
+
+.four__{
+    padding-bottom: 5px;
+}
+
+.four__ a{
+    color: skyblue;
+}
+
+
+.tdd{
+    background-color: orangered;
+    color: black;
+    padding: 5px;
+}
+
+
+.ten10{
+    background-color: yellow;
+    color: black;
+    display: inline-block;
+    border-radius: 5px;
+    list-style: none;
+    padding: 10px;
+    padding-left: 13px;
+    height: 144px;
+}
+
+.ten10 ul{
+    list-style: none;
+}
+
+
+.gap{
+    display: flex;
+    gap: 10px;
+}
+
+
+.border__:focus, .border___:focus{
+    outline: none;
+}
